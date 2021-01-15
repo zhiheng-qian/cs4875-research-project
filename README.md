@@ -1,4 +1,4 @@
-# cs4875-research
+# CS4875 research project
 Quantifying Uncertainty in Deep Learning
 
 ## Literature Survey
