@@ -16,3 +16,9 @@ Quantifying Uncertainty in Deep Learning
 * [Estimating the mean and variance of the target probability distribution](https://ieeexplore.ieee.org/document/374138)
 * [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336)
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://deepai.org/publication/dropout-as-a-bayesian-approximation-representing-model-uncertainty-in-deep-learning)
+
+## Experiment Results
+
+### Deep Ensemble
+
+![](/img/deep-ensemble.jpg "Deep Ensemble")
