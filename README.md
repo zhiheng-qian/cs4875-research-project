@@ -22,3 +22,11 @@ Quantifying Uncertainty in Deep Learning
 ### Deep Ensemble
 
 ![](./img/deep-ensemble.png "Deep Ensemble")
+
+### BatchEnsemble
+
+![](./img/deep-batch.png "Deep vs Batch")
+
+### FGEnsemble
+
+![](./img/all-ensemble.png "All Ensembles")
