@@ -21,4 +21,4 @@ Quantifying Uncertainty in Deep Learning
 
 ### Deep Ensemble
 
-![](./img/deep-ensemble.jpg "Deep Ensemble")
+![](./img/deep-ensemble.png "Deep Ensemble")
