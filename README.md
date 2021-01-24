@@ -19,13 +19,9 @@ Quantifying Uncertainty in Deep Learning
 
 ## Experiment Results
 
-### Deep Ensemble
+### Deep Ensemble & BatchEnsemble
 
-![](./img/deep-ensemble.png "Deep Ensemble")
-
-### BatchEnsemble
-
-![](./img/deep-batch.png "Deep vs Batch")
+![](./img/deep-vs-batch.png "Deep vs Batch")
 
 ### FGEnsemble
 
